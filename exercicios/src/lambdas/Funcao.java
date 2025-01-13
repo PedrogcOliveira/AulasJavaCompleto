@@ -35,7 +35,7 @@ public class Funcao {
 		
 		String resultadoFinal2 = parOuImpar
 				.andThen(oResultadoE)
-				.andThen(empolgado)
+				.andThen(duvida)
 				.apply(32);
 		
 		

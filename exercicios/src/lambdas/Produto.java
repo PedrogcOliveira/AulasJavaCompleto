@@ -15,6 +15,6 @@ public class Produto {
 	
 	public String toString() {
 		double precoFinal = preco * (1 - desconto);
-		return "Nome: " + nome + " tem o preço de R$" + precoFinal;
+		return "Nome: " + nome + " tem o preço de R$ " + precoFinal;
 	}
 }
